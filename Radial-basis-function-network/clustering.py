@@ -1,4 +1,3 @@
-from numpy.core.fromnumeric import std
 from scipy.cluster.hierarchy import dendrogram
 import matplotlib.pyplot as plt
 from hierarchical_clustering import * 
