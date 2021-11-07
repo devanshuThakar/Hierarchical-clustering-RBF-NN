@@ -6,3 +6,5 @@ The dendrogram from the code hierarchical_clustrering.py are :
 <br> ![alt-txt](hierarchical-clustering/dendrogram.png) </br>
 
 ## Radial Basis function
+
+A Radial Basis Function (RBF) neural network was used to solve a pattern classification problem. The total number all the patterns which the network learns to classify was approximately in the order of Giga.
